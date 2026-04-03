@@ -19,6 +19,8 @@
     --theme-primary: var(--accent);
     --theme-primary-rgb: 200, 241, 53;
     --theme-secondary: var(--accent3);
+
+    overflow: hidden;
 }
 
 .theme-docker {
