@@ -1,17 +1,72 @@
 [
     {
         "id": 1,
-        "nombre": "Bodega 1 - Parte Vieja",
-        "coordenadas": "43.324500, -1.983500"
+        "nombre": "Bodega Iturzaeta",
+        "descripcion": "Especialistas en Txakoli tradicional con vistas al mar Cantábrico.",
+        "tipo": "Tradicional",
+        "coordenadas": "43.324500, -1.983500",
+        "imagen": "https://images.unsplash.com/photo-1543418219-44e30b057fc5?q=80&w=400",
+        "puntuacion": 4.8,
+        "web": "https://example.com/iturzaeta"
     },
     {
         "id": 2,
-        "nombre": "Bodega 2 - Centro La Concha",
-        "coordenadas": "43.316700, -1.985000"
+        "nombre": "Villa Soro",
+        "descripcion": "Cata exclusive en una villa histórica del siglo XIX.",
+        "tipo": "Gourmet",
+        "coordenadas": "43.316700, -1.985000",
+        "imagen": "https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=400",
+        "puntuacion": 4.9,
+        "web": "https://example.com/villasoro"
     },
     {
         "id": 3,
-        "nombre": "Bodega 3 - Gros",
-        "coordenadas": "43.324000, -1.977000"
+        "nombre": "Gros Wine Bar",
+        "descripcion": "Punto de encuentro moderno para amantes de los vinos de autor.",
+        "tipo": "Moderna",
+        "coordenadas": "43.324000, -1.977000",
+        "imagen": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?q=80&w=400",
+        "puntuacion": 4.5,
+        "web": "https://example.com/groswine"
+    },
+    {
+        "id": 4,
+        "nombre": "Château Mouton Rothschild",
+        "descripcion": "Uno de los viñedos más prestigiosos del mundo, famoso por sus etiquetas artísticas.",
+        "tipo": "Legendaria",
+        "coordenadas": "45.225500, -0.772500",
+        "imagen": "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.chateau-mouton-rothschild.com"
+    },
+    {
+        "id": 5,
+        "nombre": "Château Margaux",
+        "descripcion": "Pureza y elegancia en el corazón de la región de Médoc.",
+        "tipo": "Clásica",
+        "coordenadas": "45.044100, -0.667500",
+        "imagen": "https://images.unsplash.com/photo-1553120158-94df051f67f6?q=80&w=400",
+        "puntuacion": 4.9,
+        "web": "https://www.chateau-margaux.com"
+    },
+    {
+        "id": 6,
+        "nombre": "Château Haut-Brion",
+        "descripcion": "La bodega más antigua de la clasificación oficial de 1855.",
+        "tipo": "Histórica",
+        "coordenadas": "44.816300, -0.609400",
+        "imagen": "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.haut-brion.com"
+    },
+    {
+        "id": 7,
+        "nombre": "Château Lafite Rothschild",
+        "descripcion": "Sinónimo de excelencia y longevidad en cada añada.",
+        "tipo": "Elite",
+        "coordenadas": "45.225200, -0.777200",
+        "imagen": "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.lafite.com"
     }
 ]
