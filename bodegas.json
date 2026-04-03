@@ -41,7 +41,7 @@
         "imagen": "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?q=80&w=400",
         "puntuacion": 5.0,
         "web": "https://www.chateau-mouton-rothschild.com",
-        "price": 7.5
+        "price": 15
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "imagen": "https://images.unsplash.com/photo-1553120158-94df051f67f6?q=80&w=400",
         "puntuacion": 4.9,
         "web": "https://www.chateau-margaux.com",
-        "price": 7.5    
+        "price": 13.5 
     },
     {
         "id": 6,
@@ -63,7 +63,7 @@
         "imagen": "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=400",
         "puntuacion": 5.0,
         "web": "https://www.haut-brion.com",
-        "price": 7.5
+        "price": 12.5
     },
     {
         "id": 7,
@@ -74,6 +74,6 @@
         "imagen": "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=400",
         "puntuacion": 5.0,
         "web": "https://www.lafite.com",
-        "price": 7.5
+        "price": 14.5
     }
 ]
