@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Bodega 1 - Parte Vieja",
+        "coordenadas": "43.324500, -1.983500"
+    },
+    {
+        "id": 2,
+        "nombre": "Bodega 2 - Centro La Concha",
+        "coordenadas": "43.316700, -1.985000"
+    },
+    {
+        "id": 3,
+        "nombre": "Bodega 3 - Gros",
+        "coordenadas": "43.324000, -1.977000"
+    }
+]
