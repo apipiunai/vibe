@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "nombre": "Iturzaeta Txakoli",
+        "descripcion": "A fresh white wine with sea breeze notes and traditional character.",
+        "tipo": "White",
+        "coordenadas": "43.324500, -1.983500",
+        "imagen": "https://www.txakolikatalin.com/wp-content/uploads/2024/01/Reconocimientos-Katalin-txakoli-1024x657.jpg",
+        "puntuacion": 4.8,
+        "web": "https://example.com/vinos/iturzaeta",
+        "price": 10
+    },
+    {
+        "id": 2,
+        "nombre": "Villa Soro Special Reserve",
+        "descripcion": "Exclusive selection from a historic 19th-century cellar.",
+        "tipo": "Red",
+        "coordenadas": "43.316700, -1.985000",
+        "imagen": "https://images.unsplash.com/photo-1560493676-04071c5f467b?q=80&w=400",
+        "puntuacion": 4.9,
+        "web": "https://example.com/vinos/villasoro",
+        "price": 9.8
+    },
+    {
+        "id": 3,
+        "nombre": "Gros Modern Vintage",
+        "descripcion": "A contemporary wine for author's choice lovers.",
+        "tipo": "Rosé",
+        "coordenadas": "43.324000, -1.977000",
+        "imagen": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?q=80&w=400",
+        "puntuacion": 4.5,
+        "web": "https://example.com/vinos/groswine",
+        "price": 9.8
+    },
+    {
+        "id": 4,
+        "nombre": "Mouton Rothschild 2018",
+        "descripcion": "One of the most prestigious wines in the world, famous for its artistic labels.",
+        "tipo": "Pauillac",
+        "coordenadas": "45.225500, -0.772500",
+        "imagen": "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.chateau-mouton-rothschild.com",
+        "price": 15
+    },
+    {
+        "id": 5,
+        "nombre": "Pavillon Rouge du Château Margaux",
+        "descripcion": "Purity and elegance from the heart of the Médoc region.",
+        "tipo": "Margaux",
+        "coordenadas": "45.044100, -0.667500",
+        "imagen": "https://images.unsplash.com/photo-1553120158-94df051f67f6?q=80&w=400",
+        "puntuacion": 4.9,
+        "web": "https://www.chateau-margaux.com",
+        "price": 13.5 
+    },
+    {
+        "id": 6,
+        "nombre": "Château Haut-Brion Blanc",
+        "descripcion": "The oldest wine classified in the official 1855 ranking.",
+        "tipo": "Graves",
+        "coordenadas": "44.816300, -0.609400",
+        "imagen": "https://images.unsplash.com/photo-1516594915697-87eb3b1c14ea?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.haut-brion.com",
+        "price": 12.5
+    },
+    {
+        "id": 7,
+        "nombre": "Carruades de Lafite",
+        "descripcion": "Synonym of excellence and longevity in every vintage.",
+        "tipo": "Pauillac",
+        "coordenadas": "45.225200, -0.777200",
+        "imagen": "https://images.unsplash.com/photo-1528823872057-9c018a7a7553?q=80&w=400",
+        "puntuacion": 5.0,
+        "web": "https://www.lafite.com",
+        "price": 14.5
+    },
+    {
+        "id": 8,
+        "nombre": "Bordeaux City Selection",
+        "descripcion": "A curated blend capturing the essence of the city's urban wine culture.",
+        "tipo": "Urban Red",
+        "coordenadas": "44.838500, -0.575000",
+        "imagen": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?q=80&w=400",
+        "puntuacion": 4.7,
+        "web": "https://example.com/vinos/bordeaux-city",
+        "price": 12.0
+    },
+    {
+        "id": 9,
+        "nombre": "Saint-Michel Classic",
+        "descripcion": "Deep and complex, reflecting the history of the Saint-Michel district.",
+        "tipo": "Heritage Red",
+        "coordenadas": "44.833300, -0.566700",
+        "imagen": "https://images.unsplash.com/photo-1506377247377-2a5b3b0ca7df?q=80&w=400",
+        "puntuacion": 4.8,
+        "web": "https://example.com/vinos/saint-michel",
+        "price": 11.5
+    },
+    {
+        "id": 10,
+        "nombre": "Quinconces Grand Reserve",
+        "descripcion": "Elegant and powerful, inspired by the grandeur of the Place des Quinconces.",
+        "tipo": "Premium Red",
+        "coordenadas": "44.844400, -0.573900",
+        "imagen": "https://images.unsplash.com/photo-1553120158-94df051f67f6?q=80&w=400",
+        "puntuacion": 4.9,
+        "web": "https://example.com/vinos/quinconces",
+        "price": 16.0
+    }
+]
