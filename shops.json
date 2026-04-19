@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Auchan Mériadeck",
+    "coords": "44.8375, -0.5847",
+    "web": "https://www.auchan.fr/magasin/bordeaux-meriadeck"
+  },
+  {
+    "id": 2,
+    "name": "Carrefour Market Bordeaux Chartrons",
+    "coords": "44.8542, -0.5758",
+    "web": "https://www.carrefour.fr/magasin/market-bordeaux-chartrons"
+  },
+  {
+    "id": 3,
+    "name": "Lidl Bordeaux Victoire",
+    "coords": "44.8315, -0.5722",
+    "web": "https://www.lidl.fr"
+  },
+  {
+    "id": 4,
+    "name": "E.Leclerc Bordeaux Chartrons",
+    "coords": "44.8624, -0.5615",
+    "web": "https://www.e.leclerc/magasin/bordeaux"
+  },
+  {
+    "id": 5,
+    "name": "Monoprix Bordeaux Sainte-Catherine",
+    "coords": "44.8381, -0.5732",
+    "web": "https://www.monoprix.fr"
+  },
+  {
+    "id": 6,
+    "name": "Biocoop Bordeaux Lac",
+    "coords": "44.8858, -0.5656",
+    "web": "https://www.biocoop.fr"
+  },
+  {
+    "id": 7,
+    "name": "Netto Bordeaux Bastide",
+    "coords": "44.8451, -0.5589",
+    "web": "https://www.netto.fr"
+  },
+  {
+    "id": 8,
+    "name": "L'Intendant Grands Vins",
+    "coords": "44.8423, -0.5750",
+    "web": "https://www.lintendant.com"
+  },
+  {
+    "id": 9,
+    "name": "Maison du Vin de Bordeaux",
+    "coords": "44.8437, -0.5748",
+    "web": "https://www.bordeaux.com/fr/Maison-du-Vin"
+  },
+  {
+    "id": 10,
+    "name": "Badie Vinothèque",
+    "coords": "44.8439, -0.5756",
+    "web": "https://www.badie.com"
+  },
+  {
+    "id": 11,
+    "name": "Cousin & Cie",
+    "coords": "44.8390, -0.5709",
+    "web": "https://www.cousin-et-cie.com"
+  },
+  {
+    "id": 12,
+    "name": "Max Bordeaux - Wine Gallery",
+    "coords": "44.8435, -0.5765",
+    "web": "https://www.maxbordeaux.com"
+  },
+  {
+    "id": 13,
+    "name": "La Cave d’Antoine",
+    "coords": "44.8356, -0.5689",
+    "web": "https://www.lacavedantoine.com"
+  },
+  {
+    "id": 14,
+    "name": "Bordeaux Wine Word",
+    "coords": "44.8412, -0.5723",
+    "web": "https://www.bordeauxwineword.com"
+  },
+  {
+    "id": 15,
+    "name": "Le Bar à Vin",
+    "coords": "44.8435, -0.5746",
+    "web": "https://www.baravin.bordeaux.com"
+  },
+  {
+    "id": 16,
+    "name": "Wine More Time",
+    "coords": "44.8345, -0.5756",
+    "web": "https://www.winemoretime.fr"
+  },
+  {
+    "id": 17,
+    "name": "Aux Quatre Coins du Vin",
+    "coords": "44.8405, -0.5720",
+    "web": "https://www.auxquatrecoinsduvin.com"
+  },
+  {
+    "id": 18,
+    "name": "Tutiac Le Bar à Vin",
+    "coords": "44.8418, -0.5765",
+    "web": "https://www.tutiac.com"
+  },
+  {
+    "id": 19,
+    "name": "Vins Urbains",
+    "coords": "44.8397, -0.5733",
+    "web": "https://www.vinsurbains.fr"
+  },
+  {
+    "id": 20,
+    "name": "Le Point Rouge",
+    "coords": "44.8267, -0.5560",
+    "web": "https://www.pointrouge-bdx.fr"
+  }
+]
